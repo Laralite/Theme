@@ -1,0 +1,32 @@
+{
+    "name": "Laralite/theme",
+    "description": "",
+    "keywords": ["laravel", "theme", "layout", "asset", "widget", "twig"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Teepluss",
+            "email": "admin@laravel.in.th"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "twig/twig": "1.x"
+    },
+    "require-dev": {
+        "illuminate/support": ">=5.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laralite\\Theme\\": "src/"
+        },
+        "classmap": [
+            "src/Exceptions.php"
+        ],
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
