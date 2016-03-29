@@ -1,5 +1,5 @@
 {
-    "name": "Laralite/theme",
+    "name": "laralite/theme",
     "description": "",
     "keywords": ["laravel", "theme", "layout", "asset", "widget", "twig"],
     "type": "library",
