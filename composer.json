@@ -1,5 +1,6 @@
 {
     "name": "laralite/theme",
+    "version": "1.0.0",
     "description": "",
     "keywords": ["laravel", "theme", "layout", "asset", "widget", "twig"],
     "type": "library",
